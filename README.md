@@ -1,4 +1,4 @@
-# Scholar Ratings 📚⭐  
+# Scholar Ratings  
 Scholar Ratings is a web app that helps university students rate and review subjects to make better academic decisions.
 
 🚀 **Tech Stack:**  
